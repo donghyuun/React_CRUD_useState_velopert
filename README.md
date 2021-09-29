@@ -1,7 +1,9 @@
 ## Running React on Repl.it
 
 href: https://velog.io/@hyunn/%EB%B0%B0%EC%97%B4%EC%97%90-%ED%95%AD%EB%AA%A9-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+[React]
+
+(https://reactjs.org/) is a popular JavaScript library for building user interfaces.
 
 [Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
 
